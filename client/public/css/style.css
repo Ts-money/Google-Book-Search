@@ -1,0 +1,9 @@
+body {
+    background-color:#ffcba4;
+}
+
+.navbar {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
